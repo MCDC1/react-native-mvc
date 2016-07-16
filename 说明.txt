@@ -1,6 +1,6 @@
-ÒòÎªjsÓï·¨²»ÊìÏ¤ redux²»ÏëÑ§ ËùÒÔÓÃmvcÊµÏÖÁËrn uiºÍÒµÎñ¸ôÀëµÄ·½°¸
-m-rsmodel v -vew c-rscontroller
-v µ÷ÓÃcµÄ½Ó¿Ú ÊµÏÖÍ¨ÐÅ½«Êý¾Ý´æÔÚmÀï
-v¿ÉÒÔÖ±½ÓÊ¹ÓÃmµÄÊý¾Ý Ò²¿ÉÒÔÍ¨¹ýcµ÷ÓÃvµÄ½Ó¿Ú´«µÝÊý¾Ý
+å› ä¸ºjsè¯­æ³•ä¸ç†Ÿæ‚‰ reduxä¸æƒ³å­¦ æ‰€ä»¥ç”¨mvcå®žçŽ°äº†rn uiå’Œä¸šåŠ¡éš”ç¦»çš„æ–¹æ¡ˆ
+m-model v -view c-controller
+v è°ƒç”¨cçš„æŽ¥å£ å®žçŽ°é€šä¿¡å°†æ•°æ®å­˜åœ¨mé‡Œ
+vå¯ä»¥ç›´æŽ¥ä½¿ç”¨mçš„æ•°æ® ä¹Ÿå¯ä»¥é€šè¿‡cè°ƒç”¨vçš„æŽ¥å£ä¼ é€’æ•°æ®
 
-ÕâÑùÊµÏÖÁËuiºÍÒµÎñÂß¼­·ÖÀë
+è¿™æ ·å®žçŽ°äº†uiå’Œä¸šåŠ¡é€»è¾‘åˆ†ç¦»
